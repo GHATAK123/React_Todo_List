@@ -1,0 +1,1445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Lin",
+				"LinkedList"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"d",
+				"dist"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"m",
+				"mps"
+			],
+			[
+				"p",
+				"preDFS"
+			],
+			[
+				"su",
+				"sums"
+			],
+			[
+				"re",
+				"readLine"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"De",
+				"Deque"
+			],
+			[
+				"next",
+				"nextInt"
+			],
+			[
+				"io",
+				"iomanip\tstandard header"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"ta",
+				"takeCommand"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"mu",
+				"music_dir"
+			],
+			[
+				"you",
+				"youtube"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"w",
+				"wikipedia"
+			],
+			[
+				"vo",
+				"voices"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"Re",
+				"Reversed"
+			],
+			[
+				"X",
+				"Xs"
+			],
+			[
+				"L",
+				"list_member"
+			],
+			[
+				"c",
+				"current_app"
+			],
+			[
+				"fl",
+				"flaskblog"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"Req",
+				"request"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"fil",
+				"filter_by"
+			],
+			[
+				"U",
+				"User"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"btn-",
+				"btn-danger"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"abo",
+				"abort"
+			],
+			[
+				"Po",
+				"Post"
+			],
+			[
+				"Pos",
+				"PostForm"
+			],
+			[
+				"T",
+				"TextAreaField"
+			],
+			[
+				"S",
+				"StringField"
+			],
+			[
+				"lo",
+				"login_required"
+			],
+			[
+				"o",
+				"output_size"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"pu",
+				"picture_file"
+			],
+			[
+				"sa",
+				"save_picture"
+			],
+			[
+				"pi",
+				"picture_fn"
+			],
+			[
+				"form",
+				"form_picture"
+			],
+			[
+				"F",
+				"FileAllowed"
+			],
+			[
+				"fla",
+				"flask_wtf"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"Us",
+				"UserMixin"
+			],
+			[
+				"h",
+				"hashed_password"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"dta",
+				"datetime"
+			],
+			[
+				"dat",
+				"date_posted"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"flas",
+				"flask"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"__",
+				"__name__"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/React_todo/.babelrc",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_05/End/src/App.js",
+			"settings":
+			{
+				"buffer_size": 159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_05/End/src/index.js",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_05/End/public/index.html",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_05/End/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 911,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_08/End/src/todos/TodoList.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_09/End/src/todos/TodoList.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_09/End/src/todos/TodoListItem.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_09/End/src/todos/TodoListItem.js",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/NewTodoForm.css",
+			"settings":
+			{
+				"buffer_size": 501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/NewTodoForm.js",
+			"settings":
+			{
+				"buffer_size": 572,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/TodoList.js",
+			"settings":
+			{
+				"buffer_size": 332,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/TodoListItem.js",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Prakash Anand/Desktop/Solution.java",
+			"settings":
+			{
+				"buffer_size": 941,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH03/03_05/End/src/todos/reducers.js",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH03/03_08/End/src/store.js",
+			"settings":
+			{
+				"buffer_size": 587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH03/03_08/End/src/index.js",
+			"settings":
+			{
+				"buffer_size": 602,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/TodoList.css",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/TodoListItem.css",
+			"settings":
+			{
+				"buffer_size": 563,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/App.css",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/App.js",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/index.js",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/.babelrc",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/public/index.html",
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/react_blog/Ex_Files_React_Creating_Hosting_Full_Stack/Exercise Files/Ch02/02_03/Start/my-blog-backend/src/server.js",
+		"/D/react_blog/Ex_Files_React_Creating_Hosting_Full_Stack/Exercise Files/Ch02/02_03/End/my-blog-backend/src/server.js",
+		"/D/c++/Tiktoker.java",
+		"/D/c++/str.cpp",
+		"/D/Ideone.java",
+		"/D/Git/primary.txt",
+		"/D/react_blog/Ex_Files_React_Creating_Hosting_Full_Stack/Exercise Files/Ch02/02_05/End/my-blog/src/App.css",
+		"/D/react_blog/Ex_Files_React_Creating_Hosting_Full_Stack/Exercise Files/Ch02/02_05/End/my-blog/src/pages/article-content.js",
+		"/D/React/confusion/src/App.js",
+		"/D/New folder/email.js",
+		"/D/hyper/Newsy-2de9762e6414233861b3615d32db6db0efc7a510/src/pages/Tabs/Submit.js",
+		"/D/hyper/Newsy-2de9762e6414233861b3615d32db6db0efc7a510/src/pages/Tabs/News.js",
+		"/C/Users/Prakash Anand/newton/newton.txt",
+		"/C/Users/Prakash Anand/newton/index.html",
+		"/D/c_c++/js-app/main.js",
+		"/D/c_c++/js-app/main.css",
+		"/D/c_c++/js-app/index.html",
+		"/D/c_c++/nav/main.css",
+		"/D/c_c++/nav/index.html",
+		"/D/c_c++/Edu.java",
+		"/D/c_c++/dq.java",
+		"/D/c_c++/newton/Solution.java",
+		"/D/c_c++/newton/newton.html",
+		"/D/c_c++/Matrix.java",
+		"/D/c_c++/al.java",
+		"/D/c_c++/setw.cpp",
+		"/C/Users/Prakash Anand/Desktop/granger_test/parkinsion/classification-python-master.zip",
+		"/C/Users/Prakash Anand/Desktop/M3/microverse/.git/MERGE_MSG",
+		"/C/Users/Prakash Anand/Desktop/git_one/index.html",
+		"/D/java_oops/Test.java",
+		"/D/Rails/todo/Gemfile",
+		"/C/Users/Prakash Anand/Desktop/Login_v10/Login_v10/index.html",
+		"/D/prolog/quick_sort.pl",
+		"/D/prolog/insertion.pl",
+		"/D/prolog/bubble.pl",
+		"/D/prolog/add_element_as_head.pl",
+		"/D/prolog/list_member_backtracking.pl",
+		"/D/prolog/list_member.pl",
+		"/D/prolog/fact.pl",
+		"/D/prolog/fact_without_recursion.pl",
+		"/D/prolog/list_length.pl",
+		"/D/prolog/list_concatenation.pl",
+		"/D/prolog/union.pl",
+		"/D/prolog/intersection.pl",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/errors/403.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/__init__.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/errors/500.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/errors/404.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/errors/handlers.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/errors/__init__.py",
+		"/C/Users/Prakash Anand/Desktop/my_code/Face--Recognition-with-Opencv-master/Face_and_Eye.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/home.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/config.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/models.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/users/utils.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/run.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/layout.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/login.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/post.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/register.html",
+		"/C/Users/Prakash Anand/.bash_profile",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/users/forms.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/users/routes.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/posts/routes.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/main/routes.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/user_posts.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/posts/forms.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/create_post.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/account.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/reset_request.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/templates/reset_token.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/forms.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/routes.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/users/__init__.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/posts/__init__.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog/main/__init__.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/models.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/flaskblog.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/forms.py",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/layout.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/login.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/register.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/about.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/templates/home.html",
+		"/C/Users/Prakash Anand/Documents/flask/flask_blog/static/main.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 16,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/React_todo/.babelrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_05/End/src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_05/End/src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_05/End/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_05/End/webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								911
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 213.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_08/End/src/todos/TodoList.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_09/End/src/todos/TodoList.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_09/End/src/todos/TodoListItem.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_09/End/src/todos/TodoListItem.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/NewTodoForm.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/NewTodoForm.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/TodoList.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/TodoListItem.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Users/Prakash Anand/Desktop/Solution.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH03/03_05/End/src/todos/reducers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH03/03_08/End/src/store.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH03/03_08/End/src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/TodoList.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/todos/TodoListItem.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/App.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/.babelrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								63
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/D/React_todo/Ex_Files_Building_Modern_Projects_React/Exercise Files/CH02/02_11/End/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								370
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
